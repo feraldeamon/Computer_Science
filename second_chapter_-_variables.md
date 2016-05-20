@@ -1,2 +1,2 @@
-# Second Chapter - Variables
+# Variables
 
